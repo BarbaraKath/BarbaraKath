@@ -1,6 +1,6 @@
 Ola a Todos!!!
 
-Eu estou estudando [Alura](https//www.alura.com.br)
+Eu estou estudando [Alura](https://www.alura.com.br/)
 
 Estou Me esforãndo para entender como funciona as plataformas.
 
