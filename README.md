@@ -1,5 +1,7 @@
 Ola a Todos!!!
 
+Meu nome é Barbara Katherine
+
 Eu estou estudando [Alura](https://www.alura.com.br/)
 
 Estou Me esforãndo para entender como funciona as plataformas.
